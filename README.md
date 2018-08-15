@@ -7,3 +7,6 @@ A list of FOSS and Multiplatform tools and resources for Astronomy / una lista d
 
 ### Spanish
 
+## Planetarium
+
+* **Stellarium**
